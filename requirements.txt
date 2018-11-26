@@ -1,0 +1,4 @@
+aiohttp==3.4.4
+openpyxl==2.5.10
+pyquery==1.4.0
+tldextract==2.2.0
